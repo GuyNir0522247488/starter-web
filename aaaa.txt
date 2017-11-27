@@ -12,3 +12,7 @@ Another changes from master
 YAMA YAMA
 ------------------
 PAKA PAKA
+
+
+
+---- Stash example
