@@ -19,3 +19,7 @@
     aaaa
 
     second change
+
+
+--------
+Stash example 2
